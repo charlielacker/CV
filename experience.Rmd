@@ -6,21 +6,26 @@ title: "Experience"
 
 # Research Experience
 
-## Research Assistant | Social Psychology Lab
-#### Supervised by Professor Adam Fay
-Created spreadsheets in Excel; analyzed archival exam data on clicker usage in lecture halls; followed inter-rater reliability protocols; developed hypotheses; utilized IBM SPSS for data analysis.
+## Mcs Internship | The Learning Brain Lab, KU Leuven
+### Ongoing
+#### Supervised by Dr. Mila Marinova and Professor Bert Reynvoet
+Examining the Integration of Numerical Formats Using EEG: Using HMP and DDM to model decision making processes in numerosity tasks from EEG data; Bayesian analyses; planned poster presentations and conference attendence. 
+
+
+## Research Assistant | Neuroendocrinology Lab, SUNY Oswego
+#### Supervised by Professor Gilian Tenbergen
+Gathered literature overview of 2D:4D digit ratio; assessed literature and identified gaps in knowledge; collected data using hand scans and paper surveys; analyzed data using IBM SPSS; expressed results in the form of a written paper and oral presentation.## Research Assistant | Social Psychology Lab
 
 \
 
-## Research Assistant | Cognitive Neuroscience Lab
+## Research Assistant | Cognitive Neuroscience Lab, SUNY Oswego
 #### Supervised by Professor Sien Hu
 Obtained safety certification for fMRI usage at the University of Rochester; developed an experimental process for examining mental rotation.
 
 \
 
-## Research Assistant | Neuroendocrinology Lab
-#### Supervised by Professor Gilian Tenbergen
-Gathered literature overview of 2D:4D digit ratio; assessed literature and identified gaps in knowledge; collected data using hand scans and paper surveys; analyzed data using IBM SPSS; expressed results in the form of a written paper and oral presentation. 
+#### Supervised by Professor Adam Fay, SUNY Oswego
+Created spreadsheets in Excel; analyzed archival exam data on clicker usage in lecture halls; followed inter-rater reliability protocols; developed hypotheses; utilized IBM SPSS for data analysis.
 
 \
 
