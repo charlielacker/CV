@@ -9,8 +9,9 @@ title: "Experience"
 ## Mcs Internship | The Learning Brain Lab, KU Leuven
 ### Ongoing
 #### Supervised by Dr. Mila Marinova and Professor Bert Reynvoet
-Examining the Integration of Numerical Formats Using EEG: Using HMP and DDM to model decision making processes in numerosity tasks from EEG data; Bayesian analyses; planned poster presentations and conference attendence. 
+Investigating decision-making process in numerical judgements; designing and implementing EEG and behavioral experiments; using modelling techniques including DDM, HSMM, and Bayesian statistics; poster presentation planned for Spring 2027.  
 
+\
 
 ## Research Assistant | Neuroendocrinology Lab, SUNY Oswego
 #### Supervised by Professor Gilian Tenbergen
@@ -24,6 +25,7 @@ Obtained safety certification for fMRI usage at the University of Rochester; dev
 
 \
 
+##Research Assistant | Social Psychology Lab, SUNY Oswego
 #### Supervised by Professor Adam Fay, SUNY Oswego
 Created spreadsheets in Excel; analyzed archival exam data on clicker usage in lecture halls; followed inter-rater reliability protocols; developed hypotheses; utilized IBM SPSS for data analysis.
 
